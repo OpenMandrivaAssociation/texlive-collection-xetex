@@ -1,4 +1,4 @@
-# revision 24140
+# revision 25850
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-xetex
 Epoch:		1
-Version:	20120224
+Version:	20120413
 Release:	1
 Summary:	XeTeX packages
 Group:		Publishing
@@ -24,6 +24,7 @@ Requires:	texlive-fontwrap
 Requires:	texlive-mathspec
 Requires:	texlive-philokalia
 Requires:	texlive-polyglossia
+Requires:	texlive-realscripts
 Requires:	texlive-unisugar
 Requires:	texlive-xecjk
 Requires:	texlive-xecolor
@@ -43,7 +44,7 @@ Requires:	texlive-collection-basic
 
 %description
 Packages for XeTeX, the Unicode/OpenType-enabled TeX by
-Jonathan Kew, http://scripts.sil.org/xetex.
+Jonathan Kew, http://tug.org/xetex.
 
 #-----------------------------------------------------------------------
 %files

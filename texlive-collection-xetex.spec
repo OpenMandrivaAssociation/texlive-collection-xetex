@@ -1,4 +1,4 @@
-# revision 27811
+# revision 25850
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-xetex
 Epoch:		1
-Version:	20121030
+Version:	20120413
 Release:	1
 Summary:	XeTeX packages
 Group:		Publishing
@@ -25,7 +25,6 @@ Requires:	texlive-mathspec
 Requires:	texlive-philokalia
 Requires:	texlive-polyglossia
 Requires:	texlive-realscripts
-Requires:	texlive-ucharclasses
 Requires:	texlive-unisugar
 Requires:	texlive-xecjk
 Requires:	texlive-xecolor
@@ -57,3 +56,16 @@ Jonathan Kew, http://tug.org/xetex.
 %build
 
 %install
+
+
+%changelog
+* Sat Apr 14 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120413-1
++ Revision: 790895
+- Update to latest release.
+
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
++ Revision: 780512
+- Update to latest release.
+- Import texlive-collection-xetex
+- Import texlive-collection-xetex
+

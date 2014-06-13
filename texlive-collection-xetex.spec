@@ -7,7 +7,7 @@
 Name:		texlive-collection-xetex
 Epoch:		1
 Version:	20131013
-Release:	5
+Release:	6
 Summary:	XeTeX and packages
 Group:		Publishing
 URL:		http://tug.org/texlive

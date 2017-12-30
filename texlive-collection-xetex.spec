@@ -6,8 +6,8 @@
 # catalog-version undef
 Name:		texlive-collection-xetex
 Epoch:		1
-Version:	20131013
-Release:	9
+Version:	20171007
+Release:	1
 Summary:	XeTeX and packages
 Group:		Publishing
 URL:		http://tug.org/texlive

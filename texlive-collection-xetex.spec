@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-xetex
 Epoch:		1
-Version:	20171007
+Version:	20180507
 Release:	1
 Summary:	XeTeX and packages
 Group:		Publishing

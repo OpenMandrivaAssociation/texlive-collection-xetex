@@ -1,18 +1,12 @@
-# revision 30396
-# category Collection
-# catalog-ctan undef
-# catalog-date undef
-# catalog-license undef
-# catalog-version undef
 Name:		texlive-collection-xetex
 Epoch:		1
-Version:	20190228
+Version:	64951
 Release:	1
 Summary:	XeTeX and packages
 Group:		Publishing
 URL:		http://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/collection-xetex.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/collection-xetex.r64951.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
@@ -56,7 +50,7 @@ Jonathan Kew, http://tug.org/xetex.
 
 #-----------------------------------------------------------------------
 %prep
-%setup -c -a0
+%autosetup -p1 -c
 
 %build
 

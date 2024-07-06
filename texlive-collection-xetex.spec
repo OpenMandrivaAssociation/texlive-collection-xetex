@@ -1,6 +1,6 @@
 Name:		texlive-collection-xetex
 Epoch:		1
-Version:	69452
+Version:	71515
 Release:	1
 Summary:	XeTeX and packages
 Group:		Publishing
